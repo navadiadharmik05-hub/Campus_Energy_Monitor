@@ -1,0 +1,6 @@
+{
+  "name": "Campus Energy Monitor",
+  "description": "Consumption tracking across campus facilities, algorithmic telemetry operations, and real-time grid monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
